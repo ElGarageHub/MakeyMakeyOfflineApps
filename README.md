@@ -8,6 +8,10 @@ internet connection. It even works on non internet connected Chromebooks.
 Just git clone, or download as .zip and extract it, and open the `index.html`
 file.
 
+## Try it online
+
+You can also try it online at https://elgaragehub.com/MakeyMakeyOfflineApps/.
+
 ## License
 
 Copyright 2018 El Garage Project Hub, Javier Rizzo, Poleth Zavala.
