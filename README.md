@@ -14,10 +14,10 @@ You can also try it online at https://elgaragehub.com/MakeyMakeyOfflineApps/.
 
 ## License
 
-Copyright 2018 El Garage Project Hub, Javier Rizzo, Poleth Zavala.
+Copyright 2018 El Garage Project Hub, Javier Rizzo, Poleth Zavala, Luis Felipe Martinez.
 
-The code and images in this project are released under Creative Commons
-Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
+The code and images in this project, except El Garage logo, are released under 
+Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
 
 The piano sounds were made by Scratch, under the CC BY-SA 2.0 license. Scratch
 is developed by the Lifelong Kindergarten Group at the MIT Media Lab. See
