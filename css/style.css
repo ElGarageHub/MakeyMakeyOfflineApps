@@ -155,3 +155,28 @@ a {
   color: rgb(44, 57, 93);
   font-weight: bold;
 }
+
+.app-btn {
+  background-color: rgb(44, 57, 93);
+  border: 5px solid rgb(44, 57, 93);
+  border-radius: 15px;
+  display: block;
+  padding: 30px;
+  width: 50%;
+  margin: 30px auto;
+}
+
+.app-btn h2 {
+  margin-bottom: 0;
+  color: #FFFFFF;
+}
+
+.app-btn a {
+  text-decoration: none;
+}
+
+.app-btn img {
+  width: 100%;
+  margin: auto;
+  display: block;
+}
