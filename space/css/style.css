@@ -1,3 +1,7 @@
+body {
+  overflow: hidden;
+}
+
 canvas {
   display: block;
   margin: 75px auto;

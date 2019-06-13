@@ -47,7 +47,7 @@ select {
   border: 1px solid #ccc;
   -ms-box-sizing:content-box;
   -moz-box-sizing:content-box;
-  -webkit-box-sizing:content-box; 
+  -webkit-box-sizing:content-box;
   box-sizing:content-box;
   text-indent: 1px;
   text-overflow: '';
@@ -62,7 +62,7 @@ input[type="text"] {
   border: 1px solid #ccc;
   -ms-box-sizing:content-box;
   -moz-box-sizing:content-box;
-  -webkit-box-sizing:content-box; 
+  -webkit-box-sizing:content-box;
   box-sizing:content-box;
 }
 
@@ -88,7 +88,7 @@ table#familiares, table#familiares th, table#familiares td {
 table#familiares select {
   -ms-box-sizing:default;
   -moz-box-sizing:default;
-  -webkit-box-sizing:default; 
+  -webkit-box-sizing:default;
   box-sizing:default;
   width: 90%;
 }
@@ -100,7 +100,7 @@ table {
   margin-rigth: 0;
   -ms-box-sizing:content-box;
   -moz-box-sizing:content-box;
-  -webkit-box-sizing:content-box; 
+  -webkit-box-sizing:content-box;
   box-sizing:content-box;
 }
 

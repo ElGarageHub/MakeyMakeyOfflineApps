@@ -1,3 +1,7 @@
+body {
+  overflow: hidden;
+}
+
 svg {
   display: block;
   margin-left: auto;
