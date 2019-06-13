@@ -1,6 +1,7 @@
 canvas {
   display: block;
   margin: 75px auto;
+  background-color: #19263a;
 }
 
 p.copy {

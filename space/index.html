@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="css/style.css">
+    <title>Space</title>
+  </head>
+  <body>
+    <canvas id="c" width="640" height="480"></canvas>
+    <p class="copy">Controls: ↑ ↓ ← → to move the ship. Space to shoot.</p>
+    <p class="copy">Copyright &copy; 2019 <a href="https://elgaragehub.com/">El Garage Project Hub</a>, Javier Rizzo.</p>
+    <p class="copy">The code and images in this page are released under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)</a>.</p>
+
+    <img id="player-img" src="media/ship.png" alt="" style="display: none;">
+    <img id="enemy-img" src="media/enemy.png" alt="" style="display: none;">
+    <audio id="explosion" src="media/explosion.wav"></audio>
+    <audio id="shoot" src="media/shoot.wav"></audio>
+    <audio id="hit" src="media/hit.wav"></audio>
+
+    <script>window.$$ = document.querySelectorAll.bind(document);</script>
+    <script>window.$ = document.querySelector.bind(document);</script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
